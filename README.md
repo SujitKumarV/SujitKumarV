@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning phython
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me through github
+- 📫 How to reach me is through github
 - 😄 Pronouns: yellow flash
 - ⚡ Fun fact: nothing
 
